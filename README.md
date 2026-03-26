@@ -10,7 +10,7 @@ Projet d’apprentissage DevOps pour maîtriser les bases de :
 
 ## 🎯 Objectif
 
-Construire un premier projet propre en ligne de commande, comprendre le fonctionnement de Terraform et mettre en place un workflow professionnel avec Git.
+Construire un projet pour comprendre le fonctionnement de Terraform et mettre en place un workflow professionnel avec Git.
 
 ---
 
