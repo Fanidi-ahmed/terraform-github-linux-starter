@@ -10,6 +10,6 @@ terraform {
 }
 
 resource "local_file" "hello" {
-  filename = "hello.txt"
-  content  = "Bonjour Ahmed, ce fichier a été créé par Terraform."
+  filename = var.file_name
+  content  = var.file_content
 }
