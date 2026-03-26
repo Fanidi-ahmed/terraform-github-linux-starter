@@ -81,5 +81,5 @@ CI/CD avec GitHub Actions
 projets DevOps avancés
 📌 Auteur: Ahmed Fanidi
 
-Projet réalisé dans un objectif d’apprentissage DevOps / Cloud / IA.
+
 
